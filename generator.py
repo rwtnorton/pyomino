@@ -1,6 +1,6 @@
 # generator.py -- Handles random Piece generation.
 #
-# Copyright (C) 2005 Richard Norton <rwtnorton@earthlink.net>
+# Copyright (C) 2005 Richard Norton <rwtnorton@gmail.com>
 #
 # This file is part of PyOmino, a "falling blocks" game, written in Python,
 # where blocks are polyominoes of size 3 or more.
