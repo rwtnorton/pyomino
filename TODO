@@ -1,0 +1,16 @@
+Todo for version 0.0.1:
+  User configuration menu:
+    Select polyomino type(s)
+    Select user-defined controls
+    Select board size
+    Select screen size
+    Select initial fall speed
+  Store/Load user best scores
+  Repeat movement by holding down key
+  Sounds for line clear, game over, polyomino movement
+  Game music
+  Retool display methodology (emptying Group every tick is suboptimal)
+  Hexominoes
+  Septominoes
+  Networked multi-player
+  Various game modes (PvP with junk attack, time clear, initial junk)

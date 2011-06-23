@@ -1,0 +1,15 @@
+To play the game:
+ $ ./main.py
+or
+ $ python main.py
+
+
+Default controls:
+  right arrow   - move right
+  left  arrow   - move left
+  down  arrow   - move down one
+  up    arrow   - immediate drop
+  a key         - rotate counter-clockwise
+  b key         - rotate clockwise
+  p key         - pause / unpause
+  q key / ESC   - quit

@@ -1,0 +1,23 @@
+PyOmino
+=======
+
+PyOmino is a variant of the "falling block" class of games. Unlike other such
+games, in PyOmino, the polyominoes can be triominoes, tetrominoes, pentominoes,
+and so on.
+
+Requirements:
+============
+In order for this game to work, you will need Python 2.4 and PyGame 1.7.
+
+Usage:
+=====
+Please refer to the USAGE file.
+
+Copying:
+=======
+Please refer to the COPYING file.
+
+
+For all of you "falling block" masters, please enjoy!
+
+Richard W. Norton  <rwtnorton@earthlink.net>
